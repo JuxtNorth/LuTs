@@ -1,4 +1,4 @@
-const lut = {
+export const lut = {
   aliceblue: { r: 240, g: 248, b: 255 },
   antiquewhite: { r: 250, g: 235, b: 215 },
   aqua: { r: 255, g: 255, b: 0 },
