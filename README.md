@@ -23,7 +23,8 @@ const key = "fuchsia";
 const rgb = Lut[ key ]; // { r: 255, g: 0, b: 255 }
 ```
 
-### Note that the keys are case sensitive.
+### Note: Keys are case-sensitive.
+### Note 2: Don't forget to export the look-up table before importing it.
 
 <hr>
 
